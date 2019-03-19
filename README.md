@@ -36,6 +36,8 @@ The equipment included high quality consumer grade cameras with microphone input
 
 ![LPW 2017](/img/LPW_2017.png)
 
+LPW 2017 videos can be viewed [here](https://www.youtube.com/playlist?list=PLxNdCz2kBhVlxXVReBFaoUY1fCvG0czEA)
+
 ### Editing Time Sink
 
 A conservative estimate for this type of content is that for every hour of video you record it will require two hours of editing time. That is if there are no problems with the recording that require fixing: importing the files, watching through the video, exporting the video (rendering). Should there be problems with video/sound then the amount of editing time can increase significantly.
@@ -53,6 +55,8 @@ The organisers of TPC expanded the kits to include better wireless microphones, 
 All 3 rooms were live streamed to YouTube, and a Raspberry Pi was used as a control console so that the stream could pause between talks and have something displayed. ACT (via an API) was used to grab talk titles and details to do the now and next live text for each room.
 
 ![TPCiG 2018](/img/TPC_2018.png)
+
+TPCiG videos can be viewed [here](https://www.youtube.com/playlist?list=PLxavAW22r8AlyuBXU_RLQb85G9xh0mBFr)
 
 ## The Conference Video Initiative
 
@@ -72,7 +76,20 @@ Details of the kit usage so far, with links to the resulting videos along with o
 
 ### Swiss Perl Workshop 2018
 
+At SPW 2018 there were problems with the sound due to interference from the room's PA system, this was exacerbated by the auto gain built into the wireless microphones. More testing needs to be done with the wireless microphones to figure out the exact cause. Some of this was fixed using the OBS software sound filters, and some videos are better than others.
+
+Videos are available [here](https://www.youtube.com/channel/UCV3oXF6JSn-WwIDa_7KMuEA)
+
 ### London Perl Workshop 2018
+
+At LPW 2018 the sound was much improved, although there is still evidence of some minor interference and or auto gain not quite working. The consensus is that the wireless microphones may need to be upgraded/replaced unless we can figure out exactly what the issues are. One thought is that having line of sight between the transmitter and receiver improves the signal.
+
+There was some work required to post process the videos as the equipment was received last minute and the operators were not familiar with the equipment or software. Consequently the overlays were not quite correct so needed to be redone and the videos rendered again. We will add info about how this was done should it need to be done again.
+
+Videos are available [here](https://www.youtube.com/playlist?list=PLxNdCz2kBhVkJmajSuXZ7GyuCysJ1Lqlm)
 
 ### German Perl Workshop 2019
 
+Recording seemed to go smoothly over the full three days of the GPW 2019. There was one point when the OBS software crashed so the video from the talk it occurred in will have to be manually edited together.
+
+Videos and observations will be available soon.
