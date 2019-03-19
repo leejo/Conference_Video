@@ -60,15 +60,46 @@ TPCiG videos can be viewed [here](https://www.youtube.com/playlist?list=PLxavAW2
 
 ## The Conference Video Initiative
 
+Rather than having the video equipment sit idle for 360 days a year it was felt that they it should be put to use by other organisers who want to use it. This will allow high quality recording, streaming, and promotion of the Perl events.
+
 ### Recording Priorities
+
+Given the list of priorities the kits allow us to meet all of them. The following are in (probable) order of what is necessary to acheive a high quality recording of a workshop presentation:
+
+ * Be able to hear the speaker
+ * Be able to see/read the slides
+ * Promote sponsors
+ * Be able to see the speaker
+ * Overlays for information
+ * Live streaming
+
+And there are two more, although are dependent on final editing and rendering ability (and time):
+
+ * Editing to add intro / outro
+ * High resolution (1080p+)
 
 ## Using and Expanding the Kits
 
+The kits are available to use, with the understanding that they should be kept in the condition they are received in, and returned to the EPO or sent to workshop organisers who wish to use them next. There is some organisation required due to the size and weight of each kit:
+
+![one kit](/img/EPO_kit.jpg)
+
 ### Organisation
 
-### Contact Details
+The EPO should be contacted as early as possible as there is a chance that one of the persons involved with the recording kits may be attending a future workshop and can assist in bringing one or more recording kits. Alternatively delivery can be arranged. Delivery should be a last resort given the size, weight, and value of the kits.
 
-### Expanding the Kits and Wishlist
+More information on the EPO can be found on the [EPO site](https://ww2.enlightenedperl.org/about/). You can also contact the [LPW organisers](http://act.yapc.eu/lpw2019/team.html), who are also involved with the video kits
+
+### Expanding the Kits, Donating, and Wishlist
+
+At present the kits are complete and cover the aforementioned recording priorities. That said, some equipment could be upgraded to improve quality and also increase portability of the kits. This includes, but is not limited to, the following items:
+
+ * Better wireless microphones
+ * More microphones for Q&A sessions after talks
+ * Replacing desktop PCs with laptops
+ * Ongoing maintenance and repair of items
+
+To expand/improve the kits a [donation](https://ww2.enlightenedperl.org/donate/) to the EPO is more than welcome by anyone who wants to see high quality recordings of Perl workshops, sponsors of those workshops, and so on. Donations to the EPO will also help the EPO attend future Perl workshops/conferences to setup and operate the equipment.
 
 ## Workshops That Have Used the Kits
 
