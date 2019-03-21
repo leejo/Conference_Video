@@ -50,7 +50,7 @@ While we were happy with the final videos, we realised that the investment in ti
 
 For The Perl Conference in Glasgow the EPO, who were involved in the organisation, asked if they could take the kits from LPW and expand them. The LPW organisers were happy for this to happen, and felt that this could result in much better kits that would further improve the recording quality as well as reduce the time required for editing the recordings prior to upload.
 
-The organisers of TPC expanded the kits to include better wireless microphones, more adapters, more cables, a multi input/ouput switch board, and a desktop PC. The desktop PC included OBS software that would allow combining multiple input sources and the use of overlays - this would effectively remove any need for post processing / editing, assuming no significant technical problems, and also allow live streaming of the recordings.
+The organisers of TPC expanded the kits to include better wireless microphones, more adapters, more cables, a multi input/output switch board, and a desktop PC. The desktop PC included OBS software that would allow combining multiple input sources and the use of overlays - this would effectively remove any need for post processing / editing, assuming no significant technical problems, and also allow live streaming of the recordings.
 
 All 3 rooms were live streamed to YouTube, and a Raspberry Pi was used as a control console so that the stream could pause between talks and have something displayed. ACT (via an API) was used to grab talk titles and details to do the now and next live text for each room.
 
@@ -64,7 +64,7 @@ Rather than having the video equipment sit idle for 360 days a year it was felt 
 
 ### Recording Priorities
 
-Given the list of priorities the kits allow us to meet all of them. The following are in (probable) order of what is necessary to acheive a high quality recording of a workshop presentation:
+Given the list of priorities the kits allow us to meet all of them. The following are in (probable) order of what is necessary to achieve a high quality recording of a workshop presentation:
 
  * Be able to hear the speaker
  * Be able to see/read the slides
