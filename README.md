@@ -121,6 +121,6 @@ Videos are available [here](https://www.youtube.com/playlist?list=PLxNdCz2kBhVkJ
 
 ### German Perl Workshop 2019
 
-Recording seemed to go smoothly over the full three days of the GPW 2019. There was one point when the OBS software crashed so the video from the talk it occurred in will have to be manually edited together.
+Recording seemed to go smoothly over the full three days of the GPW 2019. There was one point when the OBS software crashed so the video from the talk it occurred in will have to be manually edited together. Only one key was available for the workshop, but more than one track was taking place. [Julien](https://metacpan.org/author/SIMBABQUE) managed to put together another impromptu kit using a spare android phone, bluetooth headset, upside down chair, and bicycle lamp grip to record the second track. It worked surprisingly well.
 
-Videos and observations will be available soon.
+Videos are available [here](https://www.youtube.com/playlist?list=PLw3oQoMsMg3313xhiVkOIDlQWSs64toD4)
