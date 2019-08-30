@@ -124,3 +124,21 @@ Videos are available [here](https://www.youtube.com/playlist?list=PLxNdCz2kBhVkJ
 Recording seemed to go smoothly over the full three days of the GPW 2019. There was one point when the OBS software crashed so the video from the talk it occurred in will have to be manually edited together. Only one kit was available for the workshop, but more than one track was taking place. [Julien](https://metacpan.org/author/SIMBABQUE) managed to put together another impromptu kit using a spare android phone, bluetooth headset, upside down chair, and bicycle lamp grip to record the second track. It worked surprisingly well.
 
 Videos are available [here](https://www.youtube.com/playlist?list=PLw3oQoMsMg3313xhiVkOIDlQWSs64toD4)
+
+### Les Journées Perl 2019
+
+A couple of talks were recorded, the bulk were not due to them being presented elsewhere. The videos will be linked to when they are uploaded.
+
+### PerlCon 2019 (Riga)
+
+All talks were recorded and streamed. The venue posed a couple of interesting technical problems - the first is that the wall sockets were somewhat fussy about supplying power, and cut out on a couple of occasions. All of the equipment has backup battery supplies, with the exception of the wireless microphone receivers, so while the video feed and stream continued the sound was unfortunately interrupted. This only affected a couple of videos.
+
+There was also a problem with the projectors, which were having problems with the splitter board. The solution was to compromise and record the speaker and projected slides in one rather than having two feeds.
+
+Videos are available [here](https://www.youtube.com/channel/UCtOI4JeJkVI-ObKWoY04tVg/videos)
+
+### Swiss Perl Workshop 2019
+
+All talks were recorded without problem. Lee even spent a bit of time to edit out the gaps in the lightning talks.
+
+Videos are available [here](https://www.youtube.com/playlist?list=PLOOlhkMvt_o4y627mpaCGrO4ughSEeUgb)
