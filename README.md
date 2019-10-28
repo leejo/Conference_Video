@@ -17,6 +17,9 @@ You can find details of the [equipment and setup](/equipment/README.md), OBS [so
          * [Swiss Perl Workshop 2018](#swiss-perl-workshop-2018)
          * [London Perl Workshop 2018](#london-perl-workshop-2018)
          * [German Perl Workshop 2019](#german-perl-workshop-2019)
+         * [PerlCon 2019](#perlcon-2019)
+         * [Swiss Perl Workshop 2019](#swiss-perl-workshop-2019)
+         * [London Perl Workshop 2019](#london-perl-workshop-2019)
 
 <!-- Added by: leejohnson, at:  -->
 
@@ -142,3 +145,9 @@ Videos are available [here](https://www.youtube.com/channel/UCtOI4JeJkVI-ObKWoY0
 All talks were recorded without problem. Lee even spent a bit of time to edit out the gaps in the lightning talks.
 
 Videos are available [here](https://www.youtube.com/playlist?list=PLOOlhkMvt_o4y627mpaCGrO4ughSEeUgb)
+
+### London Perl Workshop 2019
+
+All talks were recorded without problem. Lee even spent a bit of time to edit out the gaps in the lightning talks.
+
+Videos are available [here](https://www.youtube.com/playlist?list=PLxNdCz2kBhVnyEXIR7MPkHDHyLqIBzzGs)
