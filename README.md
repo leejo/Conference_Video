@@ -20,6 +20,7 @@ You can find details of the [equipment and setup](/equipment/README.md), OBS [so
          * [PerlCon 2019](#perlcon-2019)
          * [Swiss Perl Workshop 2019](#swiss-perl-workshop-2019)
          * [London Perl Workshop 2019](#london-perl-workshop-2019)
+         * [German Perl/Raku Workshop 2022](#german-perl/raku-workshop-2022)
 
 <!-- Added by: leejohnson, at:  -->
 
@@ -134,6 +135,8 @@ A couple of talks were recorded, the bulk were not due to them being presented e
 
 ### PerlCon 2019 (Riga)
 
+For PerlCon 2019 the desktop PCs were replaced with laptops, this improved the portability of the kits significantly.
+
 All talks were recorded and streamed. The venue posed a couple of interesting technical problems - the first is that the wall sockets were somewhat fussy about supplying power, and cut out on a couple of occasions. All of the equipment has backup battery supplies, with the exception of the wireless microphone receivers, so while the video feed and stream continued the sound was unfortunately interrupted. This only affected a couple of videos.
 
 There was also a problem with the projectors, which were having problems with the splitter board. The solution was to compromise and record the speaker and projected slides in one rather than having two feeds.
@@ -151,3 +154,9 @@ Videos are available [here](https://www.youtube.com/playlist?list=PLOOlhkMvt_o4y
 All talks were recorded without problem. Lee even spent a bit of time to edit out the gaps in the lightning talks.
 
 Videos are available [here](https://www.youtube.com/playlist?list=PLxNdCz2kBhVnyEXIR7MPkHDHyLqIBzzGs)
+
+### German Perl/Raku Workshop 2022
+
+All talks were recorded and streamed (using the CCC video streaming platform) - there were some minor problems with the stream due to the venue internet connection apparently throttling uploads. The wireless mics were not used this time, and instead the venue PA system was wired into a mixer board and then into the kit, which proved to be much better quality. This workshop had a combination of live talks and also pre-recorded tasks, both were fed into the EPO kits without problem.
+
+The videos will be linked to when they are uploaded.
