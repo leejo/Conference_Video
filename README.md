@@ -135,7 +135,9 @@ A couple of talks were recorded, the bulk were not due to them being presented e
 
 ### PerlCon 2019 (Riga)
 
-For PerlCon 2019 the desktop PCs were replaced with laptops, this improved the portability of the kits significantly.
+For PerlCon 2019 the desktop PCs were replaced with laptops, this improved the portability of the kits significantly:
+
+![laptops](/img/laptop.jpg)
 
 All talks were recorded and streamed. The venue posed a couple of interesting technical problems - the first is that the wall sockets were somewhat fussy about supplying power, and cut out on a couple of occasions. All of the equipment has backup battery supplies, with the exception of the wireless microphone receivers, so while the video feed and stream continued the sound was unfortunately interrupted. This only affected a couple of videos.
 
