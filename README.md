@@ -100,7 +100,7 @@ At present the kits are complete and cover the aforementioned recording prioriti
 
  * Better wireless microphones
  * More microphones for Q&A sessions after talks
- * Replacing desktop PCs with laptops
+ * ~Replacing desktop PCs with laptops~
  * Ongoing maintenance and repair of items
 
 To expand/improve the kits a [donation](https://ww2.enlightenedperl.org/donate/) to the EPO is more than welcome by anyone who wants to see high quality recordings of Perl workshops, sponsors of those workshops, and so on. Donations to the EPO will also help the EPO attend future Perl workshops/conferences to setup and operate the equipment.
