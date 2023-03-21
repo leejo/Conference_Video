@@ -17,10 +17,12 @@ You can find details of the [equipment and setup](/equipment/README.md), OBS [so
          * [Swiss Perl Workshop 2018](#swiss-perl-workshop-2018)
          * [London Perl Workshop 2018](#london-perl-workshop-2018)
          * [German Perl Workshop 2019](#german-perl-workshop-2019)
-         * [PerlCon 2019](#perlcon-2019)
+         * [Les Journées Perl 2019](#les-journ%C3%A9es-perl-2019)
+         * [PerlCon 2019](#perlcon-2019-riga)
          * [Swiss Perl Workshop 2019](#swiss-perl-workshop-2019)
          * [London Perl Workshop 2019](#london-perl-workshop-2019)
-         * [German Perl/Raku Workshop 2022](#german-perl/raku-workshop-2022)
+         * [German Perl/Raku Workshop 2022](#german-perlraku-workshop-2022)
+         * [German Perl/Raku Workshop 2023](#german-perlraku-workshop-2023)
 
 <!-- Added by: leejohnson, at:  -->
 
@@ -131,7 +133,7 @@ Videos are available [here](https://www.youtube.com/playlist?list=PLw3oQoMsMg331
 
 ### Les Journées Perl 2019
 
-A couple of talks were recorded, the bulk were not due to them being presented elsewhere. The videos will be linked to when they are uploaded.
+A couple of talks were recorded, the bulk were not due to them being presented elsewhere. The videos have not been uploaded as this was not requested by the organisers, nor presenters.
 
 ### PerlCon 2019 (Riga)
 
@@ -160,5 +162,11 @@ Videos are available [here](https://www.youtube.com/playlist?list=PLxNdCz2kBhVny
 ### German Perl/Raku Workshop 2022
 
 All talks were recorded and streamed (using the CCC video streaming platform) - there were some minor problems with the stream due to the venue internet connection apparently throttling uploads. The wireless mics were not used this time, and instead the venue PA system was wired into a mixer board and then into the kit, which proved to be much better quality. This workshop had a combination of live talks and also pre-recorded tasks, both were fed into the EPO kits without problem.
+
+Videos are available [here](https://media.ccc.de/c/gpw2022)
+
+### German Perl/Raku Workshop 2023
+
+All talks were recorded but no streaming took place this year. The wireless mics were not used this time, and instead the venue PA system was wired into a mixer board and then into the kit, which proved to be much better quality. This workshop had a combination of live talks and also pre-recorded tasks, both were fed into the EPO kits without problem.
 
 The videos will be linked to when they are uploaded.
