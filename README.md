@@ -23,6 +23,7 @@ You can find details of the [equipment and setup](/equipment/README.md), OBS [so
          * [London Perl Workshop 2019](#london-perl-workshop-2019)
          * [German Perl/Raku Workshop 2022](#german-perlraku-workshop-2022)
          * [German Perl/Raku Workshop 2023](#german-perlraku-workshop-2023)
+         * [German Perl/Raku Workshop 2024](#german-perlraku-workshop-2024)
 
 <!-- Added by: leejohnson, at:  -->
 
