@@ -170,3 +170,9 @@ Videos are available [here](https://media.ccc.de/c/gpw2022)
 All talks were recorded but no streaming took place this year. The wireless mics were not used this time, and instead the venue PA system was wired into a mixer board and then into the kit, which proved to be much better quality. This workshop had a combination of live talks and also pre-recorded tasks, both were fed into the EPO kits without problem.
 
 Videos are available [here](https://www.youtube.com/playlist?list=PLaDtghjWTaH3CMKDYXcMhCMCNDekVq9iK)
+
+### German Perl/Raku Workshop 2024
+
+All talks were recorded but no streaming took place this year. The wireless mics were again not used this time.
+
+Videos are available [here](https://www.youtube.com/playlist?list=PLaDtghjWTaH0Uelwi7QTvFZImuIMwmZHH)
