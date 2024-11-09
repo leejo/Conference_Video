@@ -24,6 +24,7 @@ You can find details of the [equipment and setup](/equipment/README.md), OBS [so
          * [German Perl/Raku Workshop 2022](#german-perlraku-workshop-2022)
          * [German Perl/Raku Workshop 2023](#german-perlraku-workshop-2023)
          * [German Perl/Raku Workshop 2024](#german-perlraku-workshop-2024)
+         * [London Perl/Raku Workshop 2024](#london-perlraku-workshop-2024)
 
 <!-- Added by: leejohnson, at:  -->
 
@@ -177,3 +178,11 @@ Videos are available [here](https://www.youtube.com/playlist?list=PLaDtghjWTaH3C
 All talks were recorded but no streaming took place this year. The wireless mics were again not used this time.
 
 Videos are available [here](https://www.youtube.com/playlist?list=PLaDtghjWTaH0Uelwi7QTvFZImuIMwmZHH)
+
+### London Perl/Raku Workshop 2024
+
+All talks were recorded but no streaming took place this year. New wireless microphones were purchased prior to the workshop and tested fine, showing to be a huge improvement over the old ones in terms of quality and range. On the day there appears to have been some buffering issues in writing/encoding the capture to disk that resulted in glitchy audio. This is apparent in some recordings more than others, and in parts of some recordings more than other parts. Lee suspects updates to the Windows laptops has pushed them beyond their capacity, or there was something in the venue interfering with the wireless microphones.
+
+Videos are available [here](https://www.youtube.com/playlist?list=PLxNdCz2kBhVlzbVFcjwY6GkQf4zBhvwFn)
+
+Given the effort involved in preparing for recordings, during the day, and editing after, and the fact that we continue to see problems with the kits; Lee has decided that he will no longer be recording any Perl/Raku events in the near future.
