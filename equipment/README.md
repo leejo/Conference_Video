@@ -101,9 +101,18 @@ The Camera should be setup close to the laptop, but with enough room around it t
 
 ### Microphone Setup
 
-The microphone base station should be set up near to the camera, on the desk for the laptop. Connect the power to the base station, then connect the base station to the camera using the 1/4" to 3.5mm cable.
+Each kit contains:
 
-Insert a fresh battery into the belt pack and connect the microphone to the pack. Turn on the base station and the belt pack, and check on the Camera microphone levels that you are receiving sound, and that when talking at a 'presentation level' the levels are not ending up in the red. Place the Belt Pack on the lectern ready for the presenter to wear.
+ * 2x microphone transmitters
+ * 1x microphones receiver
+ * Recharging base station
+ * 2x wooden spoons
+
+Attach one transmitter to the speaker, have the second on a wooden spoon ready to hand around the audience if/when a Q&A starts but do not switch it on until required - if this is not possible then tell the speaker to repeat the question(s). Tell them again, then tell them a third time. The microphones will not pick up on ambient noise, which includes audience members asking questions, so they need to be repeated by the speaker.
+
+The wireless microphones should be setup such that the receiver is plugged into the microphone in port on the camera. The receiver should have uninterrupted line-of-sight to the transmitter the speaker is wearing, if possible. 
+
+Ensure that the microphone transmitters and receiver are recharged during breaks (coffee, lunch, etc) as they generally don't quite last a full day.
 
 ### Lectern Setup
 

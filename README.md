@@ -25,6 +25,7 @@ You can find details of the [equipment and setup](/equipment/README.md), OBS [so
          * [German Perl/Raku Workshop 2023](#german-perlraku-workshop-2023)
          * [German Perl/Raku Workshop 2024](#german-perlraku-workshop-2024)
          * [London Perl/Raku Workshop 2024](#london-perlraku-workshop-2024)
+         * [German Perl/Raku Workshop 2025](#german-perlraku-workshop-2025)
 
 <!-- Added by: leejohnson, at:  -->
 
@@ -185,4 +186,10 @@ All talks were recorded but no streaming took place this year. New wireless micr
 
 Videos are available [here](https://www.youtube.com/playlist?list=PLxNdCz2kBhVlzbVFcjwY6GkQf4zBhvwFn)
 
-Given the effort involved in preparing for recordings, during the day, and editing after, and the fact that we continue to see problems with the kits; Lee has decided that he will no longer be recording any Perl/Raku events in the near future.
+Given the effort involved in preparing for recordings, during the day, and editing after, and the fact that we continue to see problems with the kits; Lee is not sure if he will be involved in recording any Perl/Raku events in the near future and will likely pass the video kits on to new custodians.
+
+### German Perl/Raku Workshop 2025
+
+All talks were recorded but no streaming took place this year. The new wireless mics were used without problem, other than the battery running out during one talk. The Windows machines were not used, instead Lee used his personal Macbook Air to operate OBS.
+
+Videos are available [here](https://www.youtube.com/playlist?list=PLaDtghjWTaH1XTLbw0tDQQ3T2nDP3rhBP)
