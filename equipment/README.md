@@ -23,7 +23,7 @@
 
 ## Equipment List
 
-Each EPO recoding box contains the following equipment
+Each recording box contains the following equipment
 
 ### Laptop Setup
 

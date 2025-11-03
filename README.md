@@ -1,6 +1,8 @@
-# Enlightened-Perl-Organisation Conference Video
+# Perl Conference Video
 
-A repository to document, track, and share details of the EPO Conference Video initiative - offering high quality video recording and streaming equipment for use at Perl (and potentially other) workshops throughout Europe.
+né the Enlightened-Perl-Organisation Conference Video.
+
+A repository to document, track, and share details of the Perl Conference Video initiative - offering high quality video recording and streaming equipment for use at Perl (and potentially other) workshops throughout Europe.
 
 You can find details of the [equipment and setup](/equipment/README.md), OBS [software](/obs/README.md) resources, and [tips](/tips/README.md) within this repository. The issue tracker should be used for wishlist items as well as tracking problems with any of the equipment.
 
@@ -89,26 +91,24 @@ And there are two more, although are dependent on final editing and rendering ab
 
 ## Using and Expanding the Kits
 
-The kits are available to use, with the understanding that they should be kept in the condition they are received in, and returned to the EPO or sent to workshop organisers who wish to use them next. There is some organisation required due to the size and weight of each kit:
+The kits are available to use, with the understanding that they should be kept in the condition they are received in, and returned to the custodian or sent to workshop organisers who wish to use them next. There is some organisation required due to the size and weight of each kit:
 
 ![one kit](/img/EPO_kit.jpg)
 
 ### Organisation
 
-The EPO should be contacted as early as possible as there is a chance that one of the persons involved with the recording kits may be attending a future workshop and can assist in bringing one or more recording kits. Alternatively delivery can be arranged. Delivery should be a last resort given the size, weight, and value of the kits.
-
-More information on the EPO can be found on the [EPO site](https://ww2.enlightenedperl.org/about/). You can also contact the [LPW organisers](http://act.yapc.eu/lpw2019/team.html), who are also involved with the video kits
+The custodian should be contacted as early as possible as there is a chance that one of the persons involved with the recording kits may be attending a future workshop and can assist in bringing one or more recording kits. Alternatively delivery can be arranged. Delivery should be a last resort given the size, weight, and value of the kits.
 
 ### Expanding the Kits, Donating, and Wishlist
 
 At present the kits are complete and cover the aforementioned recording priorities. That said, some equipment could be upgraded to improve quality and also increase portability of the kits. This includes, but is not limited to, the following items:
 
- * Better wireless microphones
- * More microphones for Q&A sessions after talks
+ * ~Better wireless microphones~
+ * ~More microphones for Q&A sessions after talks~
  * ~Replacing desktop PCs with laptops~
  * Ongoing maintenance and repair of items
 
-To expand/improve the kits a [donation](https://ww2.enlightenedperl.org/donate/) to the EPO is more than welcome by anyone who wants to see high quality recordings of Perl workshops, sponsors of those workshops, and so on. Donations to the EPO will also help the EPO attend future Perl workshops/conferences to setup and operate the equipment.
+To expand/improve the kits a donation is more than welcome by anyone who wants to see high quality recordings of Perl workshops, sponsors of those workshops, and so on. Donations will also help the custodian attend future Perl workshops/conferences to setup and operate the equipment.
 
 ## Workshops That Have Used the Kits
 
@@ -164,13 +164,13 @@ Videos are available [here](https://www.youtube.com/playlist?list=PLxNdCz2kBhVny
 
 ### German Perl/Raku Workshop 2022
 
-All talks were recorded and streamed (using the CCC video streaming platform) - there were some minor problems with the stream due to the venue internet connection apparently throttling uploads. The wireless mics were not used this time, and instead the venue PA system was wired into a mixer board and then into the kit, which proved to be much better quality. This workshop had a combination of live talks and also pre-recorded tasks, both were fed into the EPO kits without problem.
+All talks were recorded and streamed (using the CCC video streaming platform) - there were some minor problems with the stream due to the venue internet connection apparently throttling uploads. The wireless mics were not used this time, and instead the venue PA system was wired into a mixer board and then into the kit, which proved to be much better quality. This workshop had a combination of live talks and also pre-recorded tasks, both were fed into the kits without problem.
 
 Videos are available [here](https://media.ccc.de/c/gpw2022)
 
 ### German Perl/Raku Workshop 2023
 
-All talks were recorded but no streaming took place this year. The wireless mics were not used this time, and instead the venue PA system was wired into a mixer board and then into the kit, which proved to be much better quality. This workshop had a combination of live talks and also pre-recorded tasks, both were fed into the EPO kits without problem.
+All talks were recorded but no streaming took place this year. The wireless mics were not used this time, and instead the venue PA system was wired into a mixer board and then into the kit, which proved to be much better quality. This workshop had a combination of live talks and also pre-recorded tasks, both were fed into the kits without problem.
 
 Videos are available [here](https://www.youtube.com/playlist?list=PLaDtghjWTaH3CMKDYXcMhCMCNDekVq9iK)
 
